@@ -1,0 +1,24 @@
+body {
+  padding: 2em 4em;
+  background-color: #282a2a;
+  color: #fff;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+button {
+  background: #5e2bff;
+  border: none;
+  padding: 1em 2em;
+  font-size: 1.25em;
+  font-weight: bold;
+  border-radius: 0.5em;
+  white-space: nowrap;
+  cursor: pointer;
+  margin: 2em 0;
+  color: #f7fff7;
+}
+
+a {
+  color: #f7fff7;
+}
